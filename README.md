@@ -5,4 +5,4 @@ This code is based on the tensorflow core tutorial: https://www.tensorflow.org/t
 
 It is a rudimentary implementation of the TF-Hub magenta module for style transfer.
 
-Code can be found in styletransfer.py and results and can be found as result.png
+Code can be found in styletransfer.py and results and can be found as styletransfer2.png
